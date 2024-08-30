@@ -11,7 +11,7 @@
 - l'utilisation de l'`asynchrone`  ✔️
 - les spécifités du mot-clef `this` ✔️
 
-## 💻 Je code en Javascript
+## 💻 Je code en Javascript ✔️
 
 ### Un exemple de code commenté ✔️
 
@@ -35,14 +35,14 @@ Description :
 
 Description :
 
-## 🌐 J'utilise des ressources
+## 🌐 J'utilise des ressources ✔️
 
 ### Titre
 
-- lien
+- stackoverflow, mdn
 - description
 
-## 🚧 Je franchis les obstacles
+## 🚧 Je franchis les obstacles ✔️
 
 ### Point de blocage ❌ / ✔️
 
